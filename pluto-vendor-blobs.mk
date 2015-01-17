@@ -157,7 +157,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/pluto/proprietary/lib/libnvwsi.so:system/lib/libnvwsi.so \
     vendor/zte/pluto/proprietary/lib/libopencv24_tegra.so:system/lib/libopencv24_tegra.so \
     vendor/zte/pluto/proprietary/lib/libpowerservice_client.so:system/lib/libpowerservice_client.so \
-    vendor/zte/pluto/proprietary/lib/libpowerservice.so:system/lib/libpowerservice.so \
     vendor/zte/pluto/proprietary/lib/librm31080.so:system/lib/librm31080.so \
     vendor/zte/pluto/proprietary/lib/librm_ts_service.so:system/lib/librm_ts_service.so \
     vendor/zte/pluto/proprietary/lib/libsensors.base.so:system/lib/libsensors.base.so \
