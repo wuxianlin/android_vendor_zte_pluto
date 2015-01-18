@@ -73,6 +73,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/pluto/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
     vendor/zte/pluto/proprietary/lib/egl/libGLESv2_tegra_impl.so:system/lib/egl/libGLESv2_tegra_impl.so \
     vendor/zte/pluto/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
+    vendor/zte/pluto/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
     vendor/zte/pluto/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
     vendor/zte/pluto/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
     vendor/zte/pluto/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
