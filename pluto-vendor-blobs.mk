@@ -16,7 +16,9 @@
 
 PRODUCT_COPY_FILES += \
     vendor/zte/pluto/proprietary/bin/akmd8962:system/bin/akmd8962 \
+    vendor/zte/pluto/proprietary/bin/amtbackup:system/bin/amtbackup \
     vendor/zte/pluto/proprietary/bin/atcmdsrv:system/bin/atcmdsrv \
+    vendor/zte/pluto/proprietary/bin/backupVersionNum:system/bin/backupVersionNum \
     vendor/zte/pluto/proprietary/bin/btmacwriter:system/bin/btmacwriter \
     vendor/zte/pluto/proprietary/bin/cluster:system/bin/cluster \
     vendor/zte/pluto/proprietary/bin/cluster_get.sh:system/bin/cluster_get.sh \
@@ -25,6 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/pluto/proprietary/bin/gsmmuxd:system/bin/gsmmuxd \
     vendor/zte/pluto/proprietary/bin/hotplug:system/bin/hotplug \
     vendor/zte/pluto/proprietary/bin/input_cfboost_init.sh:system/bin/input_cfboost_init.sh \
+    vendor/zte/pluto/proprietary/bin/mds:system/bin/mds \
     vendor/zte/pluto/proprietary/bin/mount_debugfs.sh:system/bin/mount_debugfs.sh \
     vendor/zte/pluto/proprietary/bin/nvcap_test:system/bin/nvcap_test \
     vendor/zte/pluto/proprietary/bin/nvcpud:system/bin/nvcpud \
@@ -158,6 +161,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/pluto/proprietary/lib/libnvwsi.so:system/lib/libnvwsi.so \
     vendor/zte/pluto/proprietary/lib/libopencv24_tegra.so:system/lib/libopencv24_tegra.so \
     vendor/zte/pluto/proprietary/lib/libpowerservice_client.so:system/lib/libpowerservice_client.so \
+    vendor/zte/pluto/proprietary/lib/libpowerservice.so:system/lib/libpowerservice.so \
     vendor/zte/pluto/proprietary/lib/librm31080.so:system/lib/librm31080.so \
     vendor/zte/pluto/proprietary/lib/librm_ts_service.so:system/lib/librm_ts_service.so \
     vendor/zte/pluto/proprietary/lib/libsensors.base.so:system/lib/libsensors.base.so \
